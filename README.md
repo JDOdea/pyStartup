@@ -30,7 +30,7 @@ This script will launch Chrome with the specified profiles.
 
 **Usage**
 
-1. Install the `playsound` module by running the following command:
+1. Install the `playsound` module by running the following command: 
 
 2. Place your MP3 files in the same directory as `mechStart.py`.
 
